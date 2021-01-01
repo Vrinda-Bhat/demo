@@ -5,3 +5,8 @@ Demo file description!!
 ## Subheader
 
 Subheader description !!
+
+
+## Local development
+
+1. Open index.html
